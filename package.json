@@ -1,5 +1,5 @@
 {
   "devDependencies": {
-    "gh": "^2.8.9"
+    "gh-pages": "^6.1.1"
   }
 }
